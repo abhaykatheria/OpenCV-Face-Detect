@@ -1,4 +1,4 @@
-# OpenCV-Face-recognition
+# OpenCV-Face-Detect
 detecting face using open cv library
 Open Cv is the library which is used to deal with graphics images and videos it is a multipurpose library
 in this script i have used open cv to detect faces in a given image
