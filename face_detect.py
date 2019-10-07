@@ -1,5 +1,5 @@
 import cv2
-#importing the library
+#importing the library cv2 inorder to do image processing stuffs
 
 #uploading the harcascade file
 face = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
